@@ -10,6 +10,7 @@ import org.junit.Test;
 import br.sceweb.model.Empresa;
 import br.sceweb.model.EmpresaDAO;
 
+/*verificar o cadastro da empresa*/
 
 public class UC01CadastrarEmpresa {
     static EmpresaDAO empresaDAO;
